@@ -1,0 +1,27 @@
+Yêu cầu khi làm các bài tập về  hàm
+    - Định nghĩa tên hàm
+    - Định nghĩa đầu vào của hàm
+    - Định nghĩa đầu ra của hàm 
+
+
+Xuất ra màn hình 
+    1. Viết hàm showLog(message). Truyền vào nội dung, khi gọi hàm sẽ thực hiện xuất ra màn hình nội đã truyền vào hàm
+
+	Số học 
+Tạo ra 2 biến n1, n2 chứa 2 số 
+    1. Viết hàm Tính tổng; hiệu; tích; nhân 2 số  và trả ra kết quả.
+    2. Sử dụng các hàm ở 1 để tính tổng, hiệu, tích, nhân của n1,n2
+    3. Viết hàm tính bình phương một số nhập vào 
+    4. Viết hàm tìm số lớn hơn trong 2 số
+    5. Viết hàm tìm số nhỏ hơn trong 2 số 
+    6. Viết hàm tính giá trị trung bình của 2 số 
+    7. Viết hàm tính phần dư khi 2 số chia với nhau 
+
+Chuỗi
+Tạo ra 5 biến s1, s2, s3, s4, s5 chứa 5 chuỗi 
+    1. Viết hàm nối 2 chuỗi . Ví dụ có 2 chuỗi S1, S2 mục tiêu sẽ trả ra một chuỗi gộp của S1 và S2 là S = S1 + S2
+    2. Dưa vào hàm nối 2 chuỗi ở 1. Xuất ra màn hình một chuỗi S là gộp của 5 chuỗi S1, S2, S3, S4, S5 
+    3. Viết hàm in hoa chuỗi truyền vào. 
+    4. Dựa vào hàm in hoa đã làm ở 3. Xuất ra màn hình in hoa của 5 chuỗi S1, S2, S3, S4, S5 và S = S1S2S3S4S5 
+    5. Viết hàm kiểm tra chuỗi này có tồn tại trong chuỗi kia hay không.
+    6. Sử dụng hàm 5 để kiểm tra S2 có tồn tại trong S1 không 
