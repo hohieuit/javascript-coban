@@ -11,29 +11,34 @@ Xuất ra màn hình
 
 	Số học 
 Tạo ra 2 biến n1, n2 chứa 2 số 
-    1. Viết hàm Tính tổng; hiệu; tích; nhân 2 số  và trả ra kết quả.
-    2. Sử dụng các hàm ở 1 để tính tổng, hiệu, tích, nhân của n1,n2
-    3. Viết hàm tính bình phương một số nhập vào 
-    4. Sử dụng hàm (3) để xuất ra màn hình bình phương của n1 và bình phương của n2
-    5. Viết hàm tìm số lớn hơn trong 2 số
-    6. Sử dụng hàm (5) để tìm ra số nào lớn hơn trong 2 số n1, n2
-    7. Viết hàm tìm số nhỏ hơn trong 2 số 
-    8. Sử dụng hàm (7) để tìm ra số nào nhỏ hơn trong 2 số n1, n2
-    9. Viết hàm tính giá trị trung bình của 2 số 
-    10. Sử dụng hàm (9) để tính giá trị trung bình của n1, n2
-    11. Viết hàm tính phần dư khi 2 số chia với nhau 
-    12. Sử dụng hàm (11) để xuất ra màn hình số dư khi n1 chia cho n2
-    13. Sử dụng hàm (11) để xuất ra màn hình số dư khi n2 chia cho n1
-    14. Viết hàm kiểu ra một số có chia hết cho số còn lại không
-    15. Sử dụng hàm (14) để kiểm tra xem n1 có chia hết cho n2 không. Nếu n1 chia hết cho n2 thì xuất ra màn hình câu “n1 chia hết cho n2” nếu không thì xuất ra màn hình câu “n1 không chia hết cho n2”
-    16. Sử dụng hàm (14) để kiểm tra xem n2 có chia hết cho n1 không. Nếu n2 chia hết cho n1 thì xuất ra màn hình câu “n2 chia hết cho n1” nếu không thì xuất ra màn hình câu “n2 không chia hết cho n1”
-    17. Viết hàm tính chu vi hình chữ nhật
-    18. Viết hàm tính diện tích hình chữ nhật  
-    19. Sử dụng hàm (17) (18) để tính chu vi và diện tích một hình chữ nhật trong đó 2 cạnh có độ dài lần luợt là n1 và n2
-    20. Viết hàm tính chu vi hình tròn
-    21. Viết hàm tính diện tích hình tròn
-    22. Sử dụng hàm (20) (21) để tính chu vi và diện tích một hình tròn có bán kính là n1
-    23. Sử dụng hàm (20) (21) để tính chu vi và diện tích một hình tròn có bán kính là n2
+    1. Viết hàm Tính tổng; hiệu 2 số  và trả ra kết quả.
+    2. Sử dụng các hàm ở 1 để tính tổng, hiệu của n1,n2
+    3. Viết hàm tính để nhân 2 số 
+    4. Sử dụng hàm (3) để xuất ra màn hình tính của 2 số n1, n2
+    5. Viết hàm chia 2 số
+    6. Sử dụng hàm (4) để tính n1/n2. Nếu n2 = 0 thì sẽ ra sao 
+    7. Sử dụng hàm (4) để tính n2/n1. nếu n1 bằng 0 thì sẽ ra sao 
+    8. Viết hàm tính bình phương một số nhập vào 
+    9. Sử dụng hàm (8) để xuất ra màn hình bình phương của n1 và bình phương của n2
+    10. Viết hàm tìm số lớn hơn trong 2 số
+    11. Sử dụng hàm (10) để tìm ra số nào lớn hơn trong 2 số n1, n2
+    12. Viết hàm tìm số nhỏ hơn trong 2 số 
+    13. Sử dụng hàm (12) để tìm ra số nào nhỏ hơn trong 2 số n1, n2
+    14. Viết hàm tính giá trị trung bình của 2 số 
+    15. Sử dụng hàm (14) để tính giá trị trung bình của n1, n2
+    16. Viết hàm tính phần dư khi 2 số chia với nhau 
+    17. Sử dụng hàm (16) để xuất ra màn hình sốdư khi n1 chia cho n2
+    18. Sử dụng hàm (16) để xuất ra màn hình số dư khi n2 chia cho n1
+    19. Viết hàm kiểu ra một số có chia hết cho số còn lại không
+    20. Sử dụng hàm (19) để kiểm tra xem n1 có chia hết cho n2 không. Nếu n1 chia hết cho n2 thì xuất ra màn hình câu “n1 chia hết cho n2” nếu không thì xuất ra màn hình câu “n1 không chia hết cho n2”
+    21. Sử dụng hàm (19) để kiểm tra xem n2 có chia hết cho n1 không. Nếu n2 chia hết cho n1 thì xuất ra màn hình câu “n2 chia hết cho n1” nếu không thì xuất ra màn hình câu “n2 không chia hết cho n1”
+    22. Viết hàm tính chu vi hình chữ nhật
+    23. Viết hàm tính diện tích hình chữ nhật  
+    24. Sử dụng hàm (22) (23) để tính chu vi và diện tích một hình chữ nhật trong đó 2 cạnh có độ dài lần luợt là n1 và n2
+    25. Viết hàm tính chu vi hình tròn
+    26. Viết hàm tính diện tích hình tròn
+    27. Sử dụng hàm (25) (26) để tính chu vi và diện tích một hình tròn có bán kính là n1
+    28. Sử dụng hàm (25) (26) để tính chu vi và diện tích một hình tròn có bán kính là n2
 
 Chuỗi
 Tạo ra 5 biến s1, s2, s3, s4, s5 chứa 5 chuỗi 
