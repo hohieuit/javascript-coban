@@ -6,6 +6,8 @@ Yêu cầu khi làm các bài tập về  hàm
 
 Xuất ra màn hình 
     1. Viết hàm showLog(message). Truyền vào nội dung, khi gọi hàm sẽ thực hiện xuất ra màn hình nội đã truyền vào hàm
+    2. Sử dụng hàm (1) xuất ra câu “Xin chào, tôi rất thông minh”
+    3. Sử dụng hàm (1) để xuất ra màn hình nội dung cho toàn bộ câu các bài tập bên dưới 
 
 	Số học 
 Tạo ra 2 biến n1, n2 chứa 2 số 
@@ -43,5 +45,7 @@ Tạo ra 5 biến s1, s2, s3, s4, s5 chứa 5 chuỗi
     6. Sử dụng hàm 5 để kiểm tra S2 có tồn tại trong S1 không 
     7. sử dụng hàm [s.length] để xuất ra độ dài các chuỗi s1-s5 và độ sài của chuỗi S1S2S3S4S5
     8. Sử dụng hàm có sẵn [string.substring(begin,end)] để cắt ra một chuỗi con của S1,S2,S3,S4,S5 từ vị trí số 1 tới vị trí số 3
-    
+    9. sử dụng hàm có sẵn [string.includes(s)] để xem S1, S2, S3, S4 có tồn tại trong S5 không. Nếu S1 có tồn tịa thì xuất ra màn hình câu "S1 có tồn tại trong S5" nếu không thì xuất ra câu "S1 không tồn tại trong S5". Tương tự đối với S2, S3, S4
+
+
 
