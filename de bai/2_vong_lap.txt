@@ -1,0 +1,39 @@
+1. Viết hàm xuất ra một tin nhắn, n lần
+    - showMessage(message, n)
+2. Sử dung hàm (1) xuất ra 10 lần dòng chữ "Hôm nay trời đẹp quá"
+
+3. Viết hàm tính tổng từ 1 tới n 
+4. Sử dụng hàm (3) tính toán tổng từ 1 tới 100; tính toán tổng từ 1 tới 500
+
+5. Viết hàm tính tổng từ a tới b 
+6. Sử dụng hàm (5) tính toán tổng từ 1 tới 100; tính toán tổng từ 20 tới 76
+
+7. Viết hàm tính tổng tất cả các số lẻ từ a tới b 
+8. Sử dụng hàm (7) tính toán tổng từ 1 tới 100; tính toán tổng từ 20 tới 76
+
+9. Viết hàm xuất ra n số lẻ nhỏ nhất 
+10. Sử dụng hàm (9) xuất ra 100 số lẻ gần nhất 
+
+11. Viết hàm xuất ra n số lẻ gần nhất bắt đầu từ m. Ví dụ: viết ra 3 số lẻ gần nhất bắt đầu từ 102 => 103; 105; 107
+12. Sử dụng hàm (11) xuất ra 57 số lẻ gần nhất bắt đầu từ 1005
+
+13. Viết hàm kiểm tra một số có phải là số nguyên tố hay không? Biết số nguyên tố là số chia hết cho một và chính nó.
+14. Viết hàm xuất ra n số nguyên tố nhỏ nhất. 
+15. Sử dụng hàm (14) xuất ra 20 số nguyên tố nhỏ nhất.
+16. Viết hàm xuất ra n số nguyên tố nhỏ nhất băts đầu từ m
+17. Sử dụng hàm (16) xuất ra 20 số nguyên tô nhỏ nhất bắt đầu từ 1000
+
+
+============== GỢI Ý ĐẶT TÊN HÀM ============
+1. showMessage(message, amount): void
+3. sum(amount): number
+5. sum(from, to): number
+7. sumOdd(from, to): number
+    - sum là tổng  
+    - odd là số lẻ 
+9. listOdd(amount): []
+11. listOdd(from, amount): number[]
+13. isPrime(n): boolean
+14. listPrime(amount): number[]
+16. listPrime(from, amount): number[]
+
