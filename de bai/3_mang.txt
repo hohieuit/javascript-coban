@@ -1,0 +1,57 @@
+Mảng để lưu trữ danh sách các giá trị. Giá trị đó có thể là number, string, date.....
+Ví dụ: 
+Mảng lưu trữ các giá trị số từ 1 tới 3
+[1,2,3]
+
+Mảng lưu trữ các sở thích cá nhân 
+["đá bóng", "bóng chuyền"]
+
+Bài tập
+1. Tạo một mảng chứa các số từ 1 tới 10
+2. Tạo một mảng lưu trữ sở thích cá nhân 
+3. Xuất mảng (1) ra console.log
+4. Xuất mảng (2) ra console.log
+
+5. Viết hàm trả ra danh sách n số nhỏ hơn n
+    - getLessThan(n): number[]
+6. Sử dụng hàm (5) xuất ra console danh sách các số nhỏ hơn 100 
+
+7. Viết hàm trả ra danh sách tất cả các số lẻ nhỏ hơn n
+    - getOddlessThan(n): number[]
+8. Sử dụng hàm (7) xuất ra console danh sách toàn bộ số lẻ <1000
+
+9. Viết hàm tìm ra vị trí một phần tử nằm trong mảng 
+    - find(arr, string): number
+10. Sử dụng hàm (9). 
+    - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
+    - string cần tìm: bóng rổ
+    - kết quả trả ra: vị trí 2
+
+11. Viết hàm tìm ra vị trí tất cả phần tử nằm trong mảng 
+    - find(arr, string): numer[]
+12. Sử dụng hàm (11). 
+    - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá", "bóng rổ"]    
+    - string cần tìm: bóng rổ
+    - kết quả trả ra: vị trí [2,4]
+
+
+13. Viết hàm thêm một phần tử vào mảng 
+    - add(arr, string): []
+14. Sử dụng hàm (13). 
+    - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
+    - string cần thêm: bóng rổ
+    - kết quả trả ra: ["bóng chuyền", "bóng rổ", "bóng đá", "bóng rổ"]
+
+15. Viết hàm thêm một phần tử vào mảng, nhưng nếu phần tử đó đã tồn tại thì ko thêm nữa.
+    addIfNotExist(arr,string):[]
+16. Sử dụng hàm (15). 
+    - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
+    - string cần thêm: bóng rổ
+    - kết quả trả ra: ["bóng chuyền", "bóng rổ", "bóng đá"]
+
+17. Viết hàm xoá toàn bộ phần tử ra khỏi mảng 
+    - delete(arr,string): []
+18. Sử dụng hàm (17). 
+    - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá","bóng chuyền"]    
+    - string cần thêm: bóng chuyền
+    - kết quả trả ra: ["bóng rổ", "bóng đá"]
