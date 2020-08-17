@@ -20,38 +20,45 @@ Bài tập
     - getOddlessThan(n): number[]
 8. Sử dụng hàm (7) xuất ra console danh sách toàn bộ số lẻ <1000
 
-9. Viết hàm tìm ra vị trí một phần tử nằm trong mảng 
-    - find(arr, string): number
+9. Viết hàm tìm ra vị trí phần tử đầu tiên nằm trong mảng 
+    - findFirst(arr, chuoiCanTim): number
 10. Sử dụng hàm (9). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
     - string cần tìm: bóng rổ
     - kết quả trả ra: vị trí 2
 
-11. Viết hàm tìm ra vị trí tất cả phần tử nằm trong mảng 
-    - find(arr, string): numer[]
+11. Viết hàm tìm ra vị trí phần tử cuối cùng nằm trong mảng 
+    - findLast(arr, chuoiCanTim): number
 12. Sử dụng hàm (11). 
+    - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
+    - string cần tìm: bóng rổ
+    - kết quả trả ra: vị trí 2
+
+
+13. Viết hàm tìm ra vị trí tất cả phần tử nằm trong mảng 
+    - find(arr, chuoiCanTim): numer[]
+14. Sử dụng hàm (13). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá", "bóng rổ"]    
     - string cần tìm: bóng rổ
     - kết quả trả ra: vị trí [2,4]
 
-
-13. Viết hàm thêm một phần tử vào mảng 
-    - add(arr, string): []
-14. Sử dụng hàm (13). 
+15. Viết hàm thêm một phần tử vào mảng 
+    - add(arr, chuoiCanThem): []
+16. Sử dụng hàm (15). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
     - string cần thêm: bóng rổ
     - kết quả trả ra: ["bóng chuyền", "bóng rổ", "bóng đá", "bóng rổ"]
 
-15. Viết hàm thêm một phần tử vào mảng, nhưng nếu phần tử đó đã tồn tại thì ko thêm nữa.
-    addIfNotExist(arr,string):[]
-16. Sử dụng hàm (15). 
+17. Viết hàm thêm một phần tử vào mảng, nhưng nếu phần tử đó đã tồn tại thì ko thêm nữa.
+    addIfNotExist(arr,chuoiCanThem):[]
+18. Sử dụng hàm (17). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
     - string cần thêm: bóng rổ
     - kết quả trả ra: ["bóng chuyền", "bóng rổ", "bóng đá"]
 
-17. Viết hàm xoá toàn bộ phần tử ra khỏi mảng 
-    - delete(arr,string): []
-18. Sử dụng hàm (17). 
+19. Viết hàm xoá toàn bộ phần tử ra khỏi mảng 
+    - delete(arr,chuoiCanXoa): []
+20. Sử dụng hàm (19). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá","bóng chuyền"]    
     - string cần thêm: bóng chuyền
     - kết quả trả ra: ["bóng rổ", "bóng đá"]
