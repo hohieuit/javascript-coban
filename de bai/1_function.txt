@@ -3,14 +3,6 @@ Yêu cầu khi làm các bài tập về  hàm
     - Định nghĩa đầu vào của hàm
     - Định nghĩa đầu ra của hàm 
 
-
-Xuất ra màn hình 
-    1. Viết hàm showLog(message). Truyền vào nội dung, khi gọi hàm sẽ thực hiện xuất ra màn hình nội đã truyền vào hàm
-    2. Sử dụng hàm (1) xuất ra câu “Xin chào, tôi rất thông minh”
-    3. Sử dụng hàm (1) để xuất ra màn hình nội dung cho toàn bộ câu các bài tập bên dưới 
-
-	Số học 
-Tạo ra 2 biến n1, n2 chứa 2 số 
     1. Viết hàm Tính tổng; hiệu 2 số  và trả ra kết quả.
     2. Sử dụng các hàm ở 1 để tính tổng, hiệu của n1,n2
     3. Viết hàm tính để nhân 2 số 
