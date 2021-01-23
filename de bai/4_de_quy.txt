@@ -1,0 +1,51 @@
+1. Xuất ra danh sách dãy số Finbonaci. Dãy Finbonaci là dãy mà số sau bằng tổng của 2 số trước nó
+Ví dụ: Finbonaci(5) = 1 1 2 3 5 8 
+2. Tính giai thừa của n. Biết rằng n! = 1*2*3*....*n
+3.Tính S(n) = 1 + 2 + 3 + ... + n - 1 + n
+4.Tính S(n) = 1^2 + 2^2 + 3^2 + ... + (n-1)^2 + n^2
+5.Tính S(n) = 1 + 1/2 + 1/3 + ... + 1/n
+6.Tính S(n) = 1/2 + 1/4 + ... + 1/2n
+7.Tính S(n) = 1 + 1/3 + 1/5 + ... + 1/(2n+1)
+8.Tính S(n) = 1/(1*2) + 1/(2*3) + 1/( n(*n-1) )
+9.Tính S(n) = 1/2 + 2/3 + 3/4 + ... + n/(n+1)
+10.Tính S(n) = 1/2 + 3/4 + 5/6 + ... + (2n+1)/(2n+2)
+11.Tính T(n) = 1*2*3*.....*n
+12.Tính T(x,n) = x^n
+13.Tính S(n) = 1 + 1.2 + 1.2.3 + .... + 1.2.3....n
+14.Tính S(x,n) = x + x^2 + x^3 + ... + x^n
+15.Tính S(x,n) = x^2 + x^4 +.... + x^2n
+16.Tính S(x,n) = x + x^3 + x^5 +....+ x^(2n+1)
+17.Tính S(n) = 1 + 1/(1+2) + 1/(1+2+3) + ... + 1/(1+2+3+...+n)
+18.Tính S(x,n) = x + (x^2)/2! + (x^3)/3! + ... + (x^n)/n!
+19.Tính S(x,n) = 1 + (x^2)/2! + (x^4)/4! + ... + (x^2n)/(2n)!
+20.Hãy đếm số lượng chữ số của số nguyên dương n
+21.Hãy tính tổng các chữ số của số nguyên dương n
+22.Hãy tính tích các chữ số của số nguyên dương n
+23.Hãy đếm số lượng chữ số lẻ của số nguyên dương n
+24.Hãy tính tổng các chữ số chẵn của số nguyên dương n
+25.Hãy tính tích các chữ số lẻ của số nguyên dương n
+26.Cho số nguyên dương n . Hãy tìm chữ số đầu tiên của n
+27.Hãy tìm chữ số đảo ngược của số nguyên dương n
+28.Tìm chữ số lớn nhất của số nguyên dương n
+29.Tìm chữ số nhỏ nhất của số nguyên dương n
+30.Hãy kiểm tra số nguyên dương n có toàn chữ số lẻ hay không?
+31.Hãy kiểm tra số nguyên dương n có toàn chữ số chẵn hay không?
+
+32. Cho một mảng đối tượng sinh viên bao gồm 2 thông tin 
+    - MSSV
+    - Họ tên 
+
+MSSV đã được sắp xếp thứ tự từ lớn đến nhỏ. Viết hàm tìm ra vị trí của một được nhập vào.
+Ví dụ cho mảng: 
+    - [
+        {"mssv": 1, "name": "Văn A"},
+        {"mssv": 2, "name": "Văn B"},
+        {"mssv": 4, "name": "Văn C"},
+        {"mssv": 6, "name": "Văn D"},
+        {"mssv": 8, "name": "Văn E"},
+        {"mssv": 10, "name": "Văn F"},
+        {"mssv": 12, "name": "Văn G"},
+        {"mssv": 15, "name": "Văn H"},
+      ]
+    - Viết hàm lấy tên sinh viên theo mssv. 
+    - Ví dụ: mssv = 10 => Văn F
