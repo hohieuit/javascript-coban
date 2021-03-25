@@ -12,53 +12,62 @@ Bài tập
 3. Xuất mảng (1) ra console.log
 4. Xuất mảng (2) ra console.log
 
-5. Viết hàm trả ra danh sách n số nhỏ hơn n
+5. thêm giá trị "cầu lông", "bơi lội" vào mảng sở thích 
+6. Cập nhật giá trị "bóng chuyền" trong mảng thành "Bóng Chuyền"
+7. Xoá 2 phần tử tại vị trí số 1 và 2 ra khỏi mảng 
+
+8. Viết hàm trả ra danh sách tất cả số nhỏ hơn n
     - getLessThan(n): number[]
-6. Sử dụng hàm (5) xuất ra console danh sách các số nhỏ hơn 100 
+9. Sử dụng hàm (8) xuất ra console danh sách các số nhỏ hơn 100 
 
-7. Viết hàm trả ra danh sách tất cả các số lẻ nhỏ hơn n
+10. Viết hàm trả ra danh sách tất cả các số lẻ nhỏ hơn n
     - getOddlessThan(n): number[]
-8. Sử dụng hàm (7) xuất ra console danh sách toàn bộ số lẻ <1000
+11. Sử dụng hàm (9) xuất ra console danh sách toàn bộ số lẻ <1000
 
-9. Viết hàm tìm ra vị trí phần tử đầu tiên nằm trong mảng 
+
+12. Viết hàm trả ra danh sách in hoa tất cả các phần tử trong mảng. Đầu vào là một mang, đầu ra là mông mảng khác và tất cả các phần tử được in hoa  
+    - toUpperCase(arr) : string[]
+13. Sử dụng hàm (12) để in hoa mảng sở thích cá nhân 
+
+14. Viết hàm tìm ra vị trí phần tử đầu tiên nằm trong mảng 
     - findFirst(arr, chuoiCanTim): number
-10. Sử dụng hàm (9). 
+15. Sử dụng hàm (9). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
     - string cần tìm: bóng rổ
     - kết quả trả ra: vị trí 2
 
-11. Viết hàm tìm ra vị trí phần tử cuối cùng nằm trong mảng 
+16. Viết hàm tìm ra vị trí phần tử cuối cùng nằm trong mảng 
     - findLast(arr, chuoiCanTim): number
-12. Sử dụng hàm (11). 
+17. Sử dụng hàm (16). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
     - string cần tìm: bóng rổ
     - kết quả trả ra: vị trí 2
 
 
-13. Viết hàm tìm ra vị trí tất cả phần tử nằm trong mảng 
+18. Viết hàm tìm ra vị trí tất cả phần tử nằm trong mảng 
     - find(arr, chuoiCanTim): numer[]
-14. Sử dụng hàm (13). 
+19. Sử dụng hàm (19). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá", "bóng rổ"]    
     - string cần tìm: bóng rổ
     - kết quả trả ra: vị trí [2,4]
 
-15. Viết hàm thêm một phần tử vào mảng 
+20. Viết hàm thêm một phần tử vào mảng 
     - add(arr, chuoiCanThem): []
-16. Sử dụng hàm (15). 
+21. Sử dụng hàm (20). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
     - string cần thêm: bóng rổ
     - kết quả trả ra: ["bóng chuyền", "bóng rổ", "bóng đá", "bóng rổ"]
 
-17. Viết hàm thêm một phần tử vào mảng, nhưng nếu phần tử đó đã tồn tại thì ko thêm nữa.
+22. Viết hàm thêm một phần tử vào mảng, nhưng nếu phần tử đó đã tồn tại thì ko thêm nữa.
     addIfNotExist(arr,chuoiCanThem):[]
-18. Sử dụng hàm (17). 
+23. Sử dụng hàm (22). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá"]    
     - string cần thêm: bóng rổ
     - kết quả trả ra: ["bóng chuyền", "bóng rổ", "bóng đá"]
 
-19. Viết hàm xoá toàn bộ phần tử ra khỏi mảng 
+24. Viết hàm xoá toàn bộ phần tử ra khỏi mảng 
     - delete(arr,chuoiCanXoa): []
-20. Sử dụng hàm (19). 
+25. Sử dụng hàm (24). 
     - Mảng: ["bóng chuyền", "bóng rổ", "bóng đá","bóng chuyền"]    
     - string cần thêm: bóng chuyền
     - kết quả trả ra: ["bóng rổ", "bóng đá"]
