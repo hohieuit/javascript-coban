@@ -18,6 +18,7 @@ Bài tập
 
 8. Viết hàm trả ra danh sách tất cả số nhỏ hơn n
     - getLessThan(n): number[]
+    - Ví dụ getLessThan(3) sẽ trả ra mảng [0,1,2]
 9. Sử dụng hàm (8) xuất ra console danh sách các số nhỏ hơn 100 
 
 10. Viết hàm trả ra danh sách tất cả các số lẻ nhỏ hơn n
