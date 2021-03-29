@@ -1,0 +1,41 @@
+1. Định nghĩa đối tượng iphone 5, iphone 6, iphone 7, iphone 8, iphone X, iphone 11, iphone 12 bao gồm các trường thông tin: hinhAnh, ten, gia
+2. Định nghĩa một mảng và thêm vào toàn bộ các đối tượng trên vào mảng 
+3. Sửa giá sản phẩm nằm ở vị trí thứ 3 trong mảng thành 5000000
+4. Xoá sản phẩm ở vị trí thứ (5,6) và (1,2)
+5. Viết hàm truyền vào một mảng các đối tượng xuất ra thông tin sản phẩm trên giao diện (sử dụng hàm document.write) với cú pháp
+    - Sản phảm {ten} có giá là {gia}
+    - xuatThongTin(mang):void
+6. Viết hàm truyền vào một mảng các đối tượng xuất ra giao diện sản phẩm. Trên giao diện phải hiển thị được hinhAnh, ten, gia 
+    - xuatGiaoDien(mang):void
+7. Viết hàm tìm sản phẩm có giá > 5000000
+    - timSanPhamCoGiaLonHon5Tr(mang)
+    - Đầu vào: một mảng các sản phẩm 
+    - Đầu ra: Một mảng các sản phẩm có giá > 5000000
+8. Viết hàm tìm sản phẩm có giá > gia
+    - timSanPhamTheoGia(mang, gia)
+    - Đầu vào: một mảng các sản phẩm; và gia 
+    - Đầu ra: Một mảng các sản phẩm có giá > n
+
+9. Sử dụng hàm (8) và (6) hiển thị ra giao diện toàn bộ sản phẩm có giá > 5.000.000
+10. Viết hàm tìm ra tất cả vị trí của sản phẩm có tên "iphone 5"
+    - timSanPhamIphone5(mang): number[]
+    - Đầu vào là một mảng 
+    - Đầu ra là mảng vị trí của sản phẩm có tên là "iphone 5"
+11. Viết hàm tìm ra tất cả vị trí của sản phẩm có tên được truyền và 
+    - timSanPhamTheoTen(mang, ten): number[] 
+    - Đầu vào là một mảng và tên muốn tìm kiếm
+    - Đầu ra là mảng vị trí của sản phẩm có tên là  tên được tuyền vào 
+12. Viết hàm cập nhật giá của tất cả sản phẩm có tên là "iphone 5" thành 10.000.000
+    - capNhatGiaIPhone5(mang, giaMoi): []
+    - Đầu vào là một mảng và giá mới muốn cập nhât 
+    - Đầu ra là một mảng sau khi đã cập nhât
+13. Viết hàm sắp xếp một mảng các đối tượng theo giá tăng dần 
+    - sapXepTangDanTheoGia(mang): []
+    - Đầu vào là một mảng
+    - Đầu ra là một mảng sau khi đã được sắp xếp 
+14. Viết hàm sắp xếp một mảng các đối tượng theo giá giảm dần 
+    - sapXepGiamDanTheoGia(mang): []
+    - Đầu vào là một mảng
+    - Đầu ra là một mảng sau khi đã được sắp xếp 
+15. Sử dụng hàm (13) và hàm (6) để hiển thị danh sách sản phẩm đã được sắp xếp theo giá tăng dần 
+16. Sử dụng hàm (8); (13); (6) để hiển thị danh sách sản phẩm có giá > 3.000.000 và sắp xếp theo giá tăng dần
