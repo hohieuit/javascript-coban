@@ -1,0 +1,22 @@
+1. Định nghĩa đối tượng samsung s8, samsung s10, samsung s20 bao gồm các trường thông tin: hinhAnh, ten, gia
+2. Định nghĩa một mảng và thêm vào toàn bộ các đối tượng trên vào mảng 
+3. Sửa giá sản phẩm nằm ở vị trí thứ 2 trong mảng thành 5000000
+4. Thêm một sản phẩm mới trong mảng là samsung s8 (nhưng có giá khác với S8 đã có )
+5. Viết hàm truyền vào một mảng các đối tượng xuất ra thông tin sản phẩm trên giao diện (sử dụng hàm document.write) với cú pháp
+    - <p>Sản phảm {ten} có giá là {gia}</p>
+    - xuatThongTin(mang):void
+6. Viết hàm truyền vào một mảng các đối tượng xuất ra giao diện sản phẩm. Trên giao diện phải hiển thị được hinhAnh, ten, gia 
+    - hienThiDanhSach(mang):void
+7. Viết hàm tìm sản phẩm có tên là "samsung s8"
+    - timSanPhamS8(mang)
+    - Đầu vào: một mảng các sản phẩm 
+    - Đầu ra: Một mảng các sản phẩm có tên là samsung s8
+8. Viết hàm tìm sản phẩm có tên là {ten}
+    - timSanPhamTheoTen(mang, ten)
+    - Đầu vào: một mảng các sản phẩm; và ten muốn tìm  
+    - Đầu ra: Một mảng các sản phẩm có tên là {ten}
+9. Sử dụng hàm (8) và (6) hiển thị ra giao diện toàn bộ sản phẩm có tên là "samsung 8"
+    - Sử dụng hàm 8 để tìm kiếm sản phẩm có tên là "samsung s8", kết quả trả ra là một mảng 
+    - Đưa mảng kết quả vào hàm 6 để hiển thị danh sách   
+10. Thêm vào danh sách sản phẩm thêm 6 sản phẩm mới & sử dụng hàm 6 để hiển thị lên giao diện 
+11. Chỉnh css cho giao diện hiển thị danh sách sản phẩm: Một hàng 3 sản phẩm; có boder cho từng sản phẩm 
