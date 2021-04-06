@@ -1,0 +1,15 @@
+1. Viết giao diện HTML & CSS giông trang aleshoppe.netlify.app
+2. Định nghĩa danh sách đối tượng gồm 10 sản phẩm bao gồm những trường thông tin: hãng (apple/samsung), ten, hinhAnh, gia
+3. Viết hàm hiển thị danh sách đối tượng ra giao diện 
+    - Truy cập node "danh-sach-san-pham"
+    - Hiển thị danh sách sản phẩm ở trên ra giao diện 
+4. Viết hàm lọc sản phẩm giá rẻ, sẽ lọc các sản phẩm dưới 3 triệu 
+    - locSanPhamGiaRe(arr): []
+    - Đầu vào là một mảng 
+    - Đầu ra là một mảng các đối tượng có giá dưới 3 triệu 
+5. Tạo thêm section "san-pham-gia-re" trên giao diện, sử dụng hàm (4),(3) hiển thị danh sách các sản phẩm < 3 tr ra giao diện 
+6. Viết hàm lọc sản phẩm theo tên hãng 
+    - locSanPhamTheoHang(arr, tenHang)
+    - Đầu vào là một mảng đối tượng và tên Hãng muốn lọc 
+    - Đầu ra là một mảng các dối tượng có tên hãng = tenHang truyền vào 
+7. Sử dụng hàm 6 và 3 để hiển thị ra giao diện danh sách các sản phẩm của hãng Apple & Samsung     
