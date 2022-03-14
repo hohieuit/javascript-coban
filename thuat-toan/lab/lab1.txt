@@ -1,0 +1,22 @@
+1. Viết hàm tính chu vi hình chữ nhật
+2. Viết hàm tính diện tích hình chữ nhật  
+3. Viết hàm xuất ra n số lẻ nhỏ nhất 
+4. Viết hàm xuất ra n số lẻ gần nhất bắt đầu từ m.
+5. Viết hàm kiểm tra một số có phải là số nguyên tố hay không? Biết số nguyên tố là số chia hết cho một và chính nó.
+6.  Viết hàm xuất ra n số nguyên tố nhỏ nhất. 
+7. Viết hàm trả ra danh sách tất cả số nhỏ hơn n
+    - getLessThan(n): number[]
+    - Ví dụ getLessThan(3) sẽ trả ra mảng [0,1,2]
+8. Viết hàm tìm ra vị trí phần tử đầu tiên nằm trong mảng 
+    - find(arr, chuoiCanTim): number
+    - Ví dụ find([1,2,3,2,5], 2) sẽ trả ra vi tri 1
+9.Viết hàm tìm ra tất cả vị trí phần tử nằm trong mảng
+    - filter (arr, chuoiCanTim): number
+    - Ví dụ filter([1,2,3,2,5], 2) sẽ trả ra vi tri [1, 3]
+10. Định nghĩa một mảng nhân viên gồm 2 thông tin: họ tên, tuổi bao gồm 5 nhân viên
+11. Viết hàm sắp xếp tuổi nhân viên giảm dần
+    - sortDesc(arr): arr
+    - Ví dụ sortDesc([{name: 'hieu', age: 30}, {name:'tuan', age: 40}]) sẽ trả ra kết quả [{name:'tuan', age: 40}, {name: 'hieu', age: 30}]
+12. Tìm trong mảng nhân viên có tuổi = x 
+    - find(arr, age: number): nhan_vien
+    - Ví dụ find([{name: 'hieu', age: 30}, {name:'tuan', age: 40}], 40) => sẽ trả ra kết quả {name:'tuan', age: 40}
