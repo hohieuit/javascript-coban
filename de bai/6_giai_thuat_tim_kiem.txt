@@ -1,0 +1,19 @@
+1. Viết thuật toán tìm kiếm tuần tự 
+    - function linearSearch(arr, soCanTim): number
+    - Đầu vào là một mảng các số & số cần tìm
+    - Đầu ra là vị trí số cần tìm
+
+2. Cho mang [5,4,2,7,6] sử dụng hàm linearSearch để tìm vị trí số 6 trong mảng
+
+3. Viết thuật toán tìm kiếm nhị phân
+    - function binarySearch(arr, soCanTim): number
+    - Đầu vào là một mảng các số & số cần tìm
+    - Đầu ra là vị trí số cần tìm
+
+4. Cho mang [5,4,2,7,6] 
+    - Sử dụng hàm bubbleSort để sắp xếp lại
+    - Sử dụng hàm binarySearch để tìm ra vị trị số 7 trong mảng
+
+5. Tạo ra mảng từ 1 -> 1048576 tăng dần từ nhỏ tới lớn. 
+    - Sử dụng hàm binarySearch để tìm ra vị trị số 1048576 trong mảng, in ra màn hình số lần so sánh của thuật toán
+    - 1048576 = 2 ^ 20 => Kiểm tra xem số lần so sánh có phải bằng 20 không?

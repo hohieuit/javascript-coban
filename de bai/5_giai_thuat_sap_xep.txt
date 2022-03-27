@@ -1,0 +1,20 @@
+1. Viết thuật toán sắp xếp selection sort
+    - function selectionSort(arr: number[]): number[]
+    - Đầu vào là một mảng các số
+    - Đầu ra là một mảng các số đã được sắp xếp
+
+2. Cho mang [5,4,2,7,6] sử dụng hàm selectionSort để sắp xếp lại và trả ra kết quả
+
+3. Viết thuật toán sắp xếp bubble sort
+    - function bubbleSort(arr: number[]): number[]
+    - Đầu vào là một mảng các số
+    - Đầu ra là một mảng các số đã được sắp xếp
+
+4. Cho mang [5,4,2,7,6] sử dụng hàm bubbleSort để sắp xếp lại và trả ra kết quả
+
+5. Viết thuật toán sắp xếp insertion sort
+    - function insertionSort(arr: number[]): number[]
+    - Đầu vào là một mảng các số
+    - Đầu ra là một mảng các số đã được sắp xếp
+
+6. Cho mang [5,4,2,7,6] sử dụng hàm insertionSort để sắp xếp lại và trả ra kết quả
