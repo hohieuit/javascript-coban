@@ -1,0 +1,12 @@
+// 1. Linked list la gi?
+// 2. Tai sao phai tao ra linked list? No hon gi so voi array?
+// 3. Props and cons (Uu nhuoc diem) cua linked list so voi array?
+// 4. Stack la gi?
+// 5. Queue la gi?
+// 6. Tai sao khi xay dung stack & queue nen su dung linked list?
+
+1. Xây dựng cấu trúc dữ liệu danh sách liên kết (linked list)
+2. Xây dựng cấu trúc dữ liẹu stack bằng cấu trúc dữ liệu mảng
+3. Xây dựng cấu trúc dữ liệu queue bằng mảng
+4. Xây dựng cấu trúc dữ liẹu stack bằng cấu trúc dữ liệu danh sách liên kết
+5. Xây dựng cấu trúc dữ liẹu queue bằng cấu trúc dữ liệu danh sách liên kết
