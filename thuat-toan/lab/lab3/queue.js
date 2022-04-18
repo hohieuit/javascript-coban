@@ -1,3 +1,4 @@
+// Queue built from array
 class Queue {
     array = [];
   /**

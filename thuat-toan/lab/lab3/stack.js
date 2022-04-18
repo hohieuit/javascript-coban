@@ -1,3 +1,4 @@
+// Stack built from array
 class Stack {
     array = []
   /**

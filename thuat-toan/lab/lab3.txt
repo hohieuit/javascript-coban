@@ -13,6 +13,10 @@
 4. Thêm 9 vào cuối danh sách đã có
 5. Viết hàm thêm phần tử vào đầu danh sách 
 6. Thêm 5 vào đầu danh sách đã có
+7. Viết hàm xóa phần tử ở đầu danh sách & trả ra giá trị bị xóa
+8. Xóa phần tử đầu tiên ra khỏi danh sách đã có, và in ra màn hình giá trị của phần tử đó
+9. Viết hàm xóa phần tử cuối cùng danh sách & trả ra giá trị bị xóa
+10. Xóa phần cuối cùng ra khỏi danh sách đã có, và in ra màn hình giá trị của phần tử đó
 
 ## STACK & QUEUE
 7. Xây dựng cấu trúc dữ liẹu queue bằng cấu trúc dữ liệu danh sách liên kết đã xây dựng từ trước

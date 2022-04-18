@@ -37,11 +37,3 @@ class LinkedList {
    */
   removeIndex(index) {}
 }
-
-function createNode(n) {
-  return {
-    value: n,
-    next: null,
-    previous: null,
-  };
-}
