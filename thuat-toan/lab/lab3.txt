@@ -19,7 +19,7 @@
 10. Xóa phần cuối cùng ra khỏi danh sách đã có, và in ra màn hình giá trị của phần tử đó
 
 ## STACK & QUEUE
-7. Xây dựng cấu trúc dữ liẹu queue bằng cấu trúc dữ liệu danh sách liên kết đã xây dựng từ trước
-8. Viết hàm thêm phần tử vào queue: function enQueue(value)
-9. Thêm các phần 1,3,6,7 vao queue
-10. Viết hàm lấy phần tử ra khỏi queue: function deQueue(): value
+11. Xây dựng cấu trúc dữ liẹu queue bằng cấu trúc dữ liệu danh sách liên kết đã xây dựng từ trước
+12. Viết hàm thêm phần tử vào queue: function enQueue(value)
+13. Thêm các phần 1,3,6,7 vao queue
+14. Viết hàm lấy phần tử ra khỏi queue: function deQueue(): value
