@@ -9,7 +9,7 @@
 ## DANH SÁCH LIÊN KẾT
 1. Xây dựng cấu trúc dữ liệu danh sách liên kết đôi (double-linked list)
 2. Lưu trữ danh sách các số 1,4,7,8 vào danh sách liên kết
-3. Viết hàm thêm một phần tử vào đầu danh sách
+3. Viết hàm thêm một phần tử vào cuối danh sách
 4. Thêm 9 vào cuối danh sách đã có
 5. Viết hàm thêm phần tử vào đầu danh sách 
 6. Thêm 5 vào đầu danh sách đã có
