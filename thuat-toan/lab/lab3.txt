@@ -5,8 +5,17 @@
 // 5. Queue la gi?
 // 6. Tai sao khi xay dung stack & queue nen su dung linked list?
 
-1. Xây dựng cấu trúc dữ liệu danh sách liên kết (linked list)
-2. Xây dựng cấu trúc dữ liẹu stack bằng cấu trúc dữ liệu mảng
-3. Xây dựng cấu trúc dữ liệu queue bằng mảng
-4. Xây dựng cấu trúc dữ liẹu stack bằng cấu trúc dữ liệu danh sách liên kết
-5. Xây dựng cấu trúc dữ liẹu queue bằng cấu trúc dữ liệu danh sách liên kết
+
+## DANH SÁCH LIÊN KẾT
+1. Xây dựng cấu trúc dữ liệu danh sách liên kết đôi (double-linked list)
+2. Lưu trữ danh sách các số 1,4,7,8 vào danh sách liên kết
+3. Viết hàm thêm một phần tử vào đầu danh sách
+4. Thêm 9 vào cuối danh sách đã có
+5. Viết hàm thêm phần tử vào đầu danh sách 
+6. Thêm 5 vào đầu danh sách đã có
+
+## STACK & QUEUE
+7. Xây dựng cấu trúc dữ liẹu queue bằng cấu trúc dữ liệu danh sách liên kết đã xây dựng từ trước
+8. Viết hàm thêm phần tử vào queue: function enQueue(value)
+9. Thêm các phần 1,3,6,7 vao queue
+10. Viết hàm lấy phần tử ra khỏi queue: function deQueue(): value
