@@ -22,6 +22,7 @@
     - find(arr, age: number): nhan_vien
     - Ví dụ find([{name: 'hieu', age: 30}, {name:'tuan', age: 40}], 40) => sẽ trả ra kết quả {name:'tuan', age: 40}
 
+
 ## GIẢI THUẬT: ĐỆ QUY, TÌM KIẾM, SẮP XẾP
 1. (1 điểm) Viết hàm xuất ra số finbonaci tại vị trí n 
     - finbonaci(n): number
@@ -58,6 +59,7 @@
 9. (1 điểm) Tạo ra mảng từ 1 -> 1048576 tăng dần từ nhỏ tới lớn. 
     - Sử dụng hàm binarySearch để tìm ra vị trị số 1048576 trong mảng, in ra màn hình số lần so sánh của thuật toán
     - 1048576 = 2 ^ 20 => Kiểm tra xem số lần so sánh có phải bằng 20 không?
+
 
 ## CẤU TRÚC DỮ LIỆU
 1. Xây dựng cấu trúc dữ liệu danh sách liên kết đôi (double-linked list)
