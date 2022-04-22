@@ -1,0 +1,59 @@
+ĐỀ THI CUỐI KÌ MÔN CTDL-GT (120 phút)
+
+
+1. (1d) Viết hàm tính tổng tất cả các số lẻ từ a tới b. Tính toán tổng từ 1 tới 100
+    - function sumOdd(a,b): number
+
+2. (1d) Viết hàm tìm ra vị trí phần tử cuối cùng nằm trong mảng 
+    -  findLast(arr, soCanTim): number
+        - Đầu vào là một mảng và số cần tìm
+        - Đầu ra là vị trí phẩn từ cuối cùng tìm ra
+    - Cho mảng [2,5,6,7,8,10,7]. Xuất ra vị trí cuối cùng của số 7 trong mảng
+
+3. (3d) Tạo một mảng đối tượng sinh viên vào gồm các thuộc tính: mã số sinh viên, tên, tuổi, giới tính. Mảng gồm 5 sinh viên bất kì
+    - Viết hàm tìm sinh viên theo tên: function findStudentByName(arr, name). Xuất ra danh sách tất cả những bạn có tên “Nguyễn Văn A”
+        - Đầu vào là một mảng sinh viên và tên sinh viên cần tìm
+        - Đầu ra là danh sách đối tượng sinh viên có tên giống với tên cần tìm
+    - Viết hàm tìm kiếm sinh viên có tuổi lớn hơn một độ tuổi nhất định: findStudentGreaterThanAge(arr, age). Xuất ra tất cả những bạn có tuổi lớn hơn 18
+        - Đầu vào là một mảng sinh viên và độ tuổi tối thiểu
+        - Đầu ra là danh sách đối tượng sinh viên có tuổi lớn hơn tuổi đưa vào
+    -  Viết hàm sắp xếp sinh viên theo độ tuổi tăng dần: function sortByAgeAsc(arr). Xuất ra mảng sinh viên đã tạo ở trên theo độ tuổi giảm dần
+        - Đầu vào là một mảng sinh viên 
+        - Đầu ra là một mảng sau khi đã được sắp xếp 
+
+4. (1d) Sử dụng thuật toán đệ quy, xây dựng hàm xuất ra n số fibonaci nhỏ nhất. Biết rằng
+    - fibonacci là một dãy số mà số đằng sau bằng tổng 2 số liền trước nó: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 ....
+    - function fibonacci(n)
+        - Đầu vào là số lượng số fibonacci muốn trả ra
+        - Đầu ra là một mảng số fibonacci
+    - Chạy hàm fibonacci để xuất ra 20 số fibonaci nhỏ nhất
+
+5.(1d) Xây dựng thuật toán sắp xếp nổi bọt (bubble sort) 
+    - function bubbleSort(arr, direction)
+    - Đầu vào là một mảng các số  và chiều muốn sắp xếp direction; direction sẽ gồm 2 giá trị asc là tăng dần và desc là giảm dần
+    - Nếu direction = asc thì sắp xếp mảng tăng dần
+    - Nếu direction = desc thì sắp xếp mảng giảm dần
+    - Sử dụng hàm đã xây dựng để sắp xếp mảng [6,1,7,2,3,9] tăng dần
+    - Sử dụng hàm đã xây dựng để sắp xếp mảng [6,1,7,2,3,9] giảm dần
+
+6.(1d) Xây dựng thuật toán tìm kiếm nhị phân bằng giải thuật đệ quy
+    - function binarySearch(arr, soCanTim)
+        - Đầu vào là một mảng các số và số cần tìm
+        - Đầu ra là vị trí số cần tìm
+    - Tạo ra một mảng gồm 1 triệu phần tử từ 999999 tới 0. Trả ra vị trí phần tử số 24 trong mảng
+    - Cần bao nhiêu lần thực hiện đệ quy để tìm ra vị trí số 24 trong 1 triệu phần tử. Xuất ra màn hình số lần thực hiện đệ quy.
+
+7.(1d) Xây dựng cấu trúc dữ liệu danh sách liên kết kép (double linked list). 
+    - Bao gồm những hàm
+        - Thêm một phần tử vào đầu danh sách
+        - Thêm một phần tử vào cuối danh sách
+        - Xóa một phần tử ở đầu danh sách
+        - Xóa một phần tử ở cuối danh sách
+
+8.(1d) Xây dựng cấu trúc dữ liệu Queue dựa trên cấu trúc dữ liệu danh sách liên kết.
+    - Thêm vào queue các phần tử 2,7,1,5,8
+    - Lấy lần lượt 2 phần tử từ trong queue ra, 2 phần tử đó là phần tử nào. Ghi ra màn hình
+    
+9.(1d) Xây dựng cấu trúc dữ liệu STACK dựa trên cấu trúc dữ liệu danh sách liên kết.
+    - Thêm vào stack các phần tử 2,7,1,5,8
+    - Lấy lần lượt 2 phần tử từ trong stack ra, 2 phần tử đó là phần tử nào. Ghi ra màn hình
